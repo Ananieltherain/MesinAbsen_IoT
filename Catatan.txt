@@ -1,22 +1,18 @@
-Coding ini dibuat/dimodifikasi
-Oleh: ALIM MULYADI
+contact me:
 
-Kalian bisa Kunjungi Channel
-Youtube: ALIM MULYADI
+email     : krsmlwn@gmail.com
+instagram : krissmlwn
+whatsapp  : 083872053272
+facebook  : Kris Muliawan
+Linkedin  : Kris Muliawan
+github    : Ananieltherain
+codewars  : Ananiel
 
-Untuk Mengetahui info lengkap
-mengenai coding/alat tersebut.
-
-Jangan Lupa Terus Support Channel
-Tersebut Dengan cara:
-Like, Komen, dan Subscribe
+u can dm me for more information.
 
 
-Untuk info lebih Lanjut, 
-Kalian bisa Email: alimmulyadi5gm@gmail.com
-atau
-Facebook: Aliem Mulyadi
-
-Enjoy :)
-
-Selamat Berkreasi.
+Project ini terinspirasi dari channel youtube Alim Mulyadi, source code juga terinspirasi dari channel youtube Alim Mulyadi.
+Tetapi project ini saya kembangkan, tidak menggunakan plx daq, melainkan mesin ini mandiri menggunakan sd card.
+Perangkat utama arduino yang saya gunakan berbeda dengan yang ada pada Alim Mulyadi.
+Channel Alim Mulyadi hanyalah refrensi dari project project yang saya buat. dan saya mengembangkan beberapa project lainnnya juga yang
+tersebar di internet, seperti doorlock, smoke alaram dan lain lain.
